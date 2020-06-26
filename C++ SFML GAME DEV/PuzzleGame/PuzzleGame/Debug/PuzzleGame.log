@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\PuzzleGame\Main.cpp(75,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\PuzzleGame\Main.cpp(75,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\PuzzleGame\Main.cpp(78,58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\PuzzleGame\Main.cpp(97,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\PuzzleGame\Main.cpp(97,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PuzzleGame.vcxproj -> C:\Users\Arafa\Desktop\C++ SFML GAME DEV\PuzzleGame\Debug\PuzzleGame.exe
